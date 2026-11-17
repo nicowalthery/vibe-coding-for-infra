@@ -1,3 +1,5 @@
+> ℹ️ **Ce repo n'est pas un projet en prod** : il existe parce qu'on s'en sert d'exemple pour la présentation « Les bonnes pratiques de dev, à l'ère du vibe coding ». Il peut disparaître sans que ça soit grave — l'important, c'est que vous ayez pris les infos et que vous les appliquiez sur vos propres projets.
+
 # vibe-coding-for-infra
 
 Support et bonnes pratiques pour coder avec l'IA — à partir de la présentation « Les bonnes pratiques de dev, à l'ère du vibe coding » (Nicolas Walthéry · SophIA Portal · KEYES).
