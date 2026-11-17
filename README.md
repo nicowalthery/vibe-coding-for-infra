@@ -2,7 +2,7 @@
 
 # vibe-coding-for-infra
 
-Support et bonnes pratiques pour coder avec l'IA — à partir de la présentation « Les bonnes pratiques de dev, à l'ère du vibe coding » (Nicolas Walthéry · SophIA Portal · KEYES).
+Support et bonnes pratiques pour coder avec l'IA — à partir de la présentation « Les bonnes pratiques de dev, à l'ère du vibe coding » (Nicolas Walthéry · SophIA Portal · KEYES) — diapositives : [`slides/Bonnes pratiques dev - vibe coding.pptx`](slides/Bonnes%20pratiques%20dev%20-%20vibe%20coding.pptx).
 
 ---
 
